@@ -1,0 +1,6 @@
+[03-Jul-2019 05:17:24 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException: You have requested a non-existent service "doctrine". in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php:277
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php(225): Symfony\Component\DependencyInjection\Container->make('doctrine', 1)
+#1 /home/daffodil-26/.vscode/extensions/tmrdh.symfony-helper-1.0.5/php-bin/symfony-commands.php(136): Symfony\Component\DependencyInjection\Container->get('doctrine')
+#2 {main}
+  thrown in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php on line 277
