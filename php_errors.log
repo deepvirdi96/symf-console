@@ -163,3 +163,481 @@ Stack trace:
 [03-Jul-2019 05:47:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 24
 [03-Jul-2019 05:47:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 24
 [03-Jul-2019 05:47:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 24
+[03-Jul-2019 22:53:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:53:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:54:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 29
+[03-Jul-2019 22:54:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 29
+[03-Jul-2019 22:55:11 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:11 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:14 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:14 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:17 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:17 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting '(' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:55:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'protected' (T_PROTECTED), expecting '(' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 14
+[03-Jul-2019 22:56:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:02 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:11 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 22:56:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 12
+[03-Jul-2019 22:56:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 12
+[03-Jul-2019 22:56:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 12
+[03-Jul-2019 22:56:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 12
+[03-Jul-2019 22:59:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 16
+[03-Jul-2019 22:59:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 16
+[03-Jul-2019 22:59:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 16
+[03-Jul-2019 22:59:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 16
+[03-Jul-2019 22:59:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 18
+[03-Jul-2019 22:59:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 19
+[03-Jul-2019 22:59:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 19
+[03-Jul-2019 23:00:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 19
+[03-Jul-2019 23:00:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 19
+[03-Jul-2019 23:00:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 20
+[03-Jul-2019 23:00:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 20
+[03-Jul-2019 23:04:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 20
+[03-Jul-2019 23:04:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 20
+[03-Jul-2019 23:04:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 20
+[03-Jul-2019 23:04:34 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 20
+[03-Jul-2019 23:06:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'p' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 24
+[03-Jul-2019 23:06:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'p' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 24
+[03-Jul-2019 23:07:15 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:15 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:21 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:21 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:24 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:07:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 26
+[03-Jul-2019 23:10:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:17 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:32 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:35 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:10:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:10:59 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:13:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:13:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:13:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:13:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:13:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:13:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:14:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:13 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:14:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:14:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:14:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:14:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:50 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:14:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:25 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:38 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:44 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:48 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:15:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:15:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:16:08 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:16:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:16:20 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:16:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:16:23 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 30
+[03-Jul-2019 23:16:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:16:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:16:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:17:05 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:17:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 35
+[03-Jul-2019 23:17:27 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 35
+[03-Jul-2019 23:17:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 35
+[03-Jul-2019 23:17:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 35
+[03-Jul-2019 23:17:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:54 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:17:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:17:57 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:18:00 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:18:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:03 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:06 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:18:09 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:18:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:18:12 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 34
+[03-Jul-2019 23:18:28 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:33 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:41 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:49 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:52 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:18:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:19:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:19:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 36
+[03-Jul-2019 23:19:46 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: Argument 2 passed to Symfony\Component\Console\Input\InputArgument::__construct() must be of the type int or null, string given, called in /home/daffodil-26/test-project/vendor/symfony/console/Command/Command.php on line 374 in /home/daffodil-26/test-project/vendor/symfony/console/Input/InputArgument.php:41
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/console/Command/Command.php(374): Symfony\Component\Console\Input\InputArgument->__construct('name', 'The Name of the...', 'Guest', NULL)
+#1 /home/daffodil-26/test-project/src/Command/CreateUserCommand.php(54): Symfony\Component\Console\Command\Command->addArgument('name', 'The Name of the...', 'Guest')
+#2 /home/daffodil-26/test-project/vendor/symfony/console/Command/Command.php(77): App\Command\CreateUserCommand->configure()
+#3 /home/daffodil-26/test-project/var/cache/dev/ContainerXTx83jx/getCreateUserCommandService.php(12): Symfony\Component\Console\Command\Command->__construct()
+ in /home/daffodil-26/test-project/vendor/symfony/console/Input/InputArgument.php on line 41
+[03-Jul-2019 23:20:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 54
+[03-Jul-2019 23:20:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',', expecting ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 54
+[03-Jul-2019 23:20:43 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\ClassNotFoundException: Attempted to load class "InputArgument" from namespace "App\Command".
+Did you forget a "use" statement for "Symfony\Component\Console\Input\InputArgument"? in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/console/Command/Command.php(77): App\Command\CreateUserCommand->configure()
+#1 /home/daffodil-26/test-project/var/cache/dev/ContainerXTx83jx/getCreateUserCommandService.php(12): Symfony\Component\Console\Command\Command->__construct()
+#2 /home/daffodil-26/test-project/var/cache/dev/ContainerXTx83jx/srcApp_KernelDevDebugContainer.php(139): require('/home/daffodil-...')
+#3 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php(433): ContainerXTx83jx\srcApp_KernelDevDebugContainer->load('getCreateUserCo...')
+#4 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Argument/ServiceLocator.php(40): Symfony\Component\Dependency in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 54
+[03-Jul-2019 23:21:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 54
+[03-Jul-2019 23:21:37 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ',' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 54
+[03-Jul-2019 23:22:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 47
+[03-Jul-2019 23:22:55 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}', expecting ';' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 47
+[03-Jul-2019 23:25:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:25:30 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '&&' (T_BOOLEAN_AND) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 28
+[03-Jul-2019 23:26:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:26:51 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:35:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:35:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')' in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:36:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:36:01 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 32
+[03-Jul-2019 23:36:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 33
+[03-Jul-2019 23:36:04 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 33
+[03-Jul-2019 23:41:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 59
+[03-Jul-2019 23:41:58 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 59
+[04-Jul-2019 02:08:34 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException: You have requested a non-existent service "doctrine". in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php:277
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php(225): Symfony\Component\DependencyInjection\Container->make('doctrine', 1)
+#1 /home/daffodil-26/.vscode/extensions/tmrdh.symfony-helper-1.0.5/php-bin/symfony-commands.php(136): Symfony\Component\DependencyInjection\Container->get('doctrine')
+#2 {main}
+  thrown in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Container.php on line 277
+[04-Jul-2019 02:38:32 Asia/Calcutta] PHP Fatal error:  Cannot declare class App\Command\GreetUser, because the name is already in use in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 70
+[04-Jul-2019 02:38:32 Asia/Calcutta] PHP Fatal error:  Cannot declare class App\Command\GreetUser, because the name is already in use in /home/daffodil-26/test-project/src/Command/CreateUserCommand.php on line 70
+[04-Jul-2019 02:42:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 14
+[04-Jul-2019 02:42:10 Asia/Calcutta] PHP Parse error:  syntax error, unexpected 'function' (T_FUNCTION), expecting '(' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 14
+[04-Jul-2019 02:42:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:16 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:19 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:22 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:26 Asia/Calcutta] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:29 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$', expecting variable (T_VARIABLE) in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 12
+[04-Jul-2019 02:42:33 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:42:33 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:42:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:36 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:39 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:42 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:45 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 15
+[04-Jul-2019 02:42:48 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:42:48 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:42:51 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:42:51 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:42:54 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 11
+[04-Jul-2019 02:42:54 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 11
+[04-Jul-2019 02:42:57 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 11
+[04-Jul-2019 02:42:57 Asia/Calcutta] PHP Fatal error:  Multiple access type modifiers are not allowed in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 11
+[04-Jul-2019 02:43:00 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:43:01 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:43:18 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:43:18 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:43:34 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:34 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:37 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:37 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home/daffodil-26/test-project/src/Services/GreetGenerator.php on line 2
+[04-Jul-2019 02:43:40 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home/daffodil-26/test-project/src/Services/GreetGenerator.php on line 2
+[04-Jul-2019 02:43:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home/daffodil-26/test-project/src/Services/GreetGenerator.php on line 2
+[04-Jul-2019 02:43:43 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home/daffodil-26/test-project/src/Services/GreetGenerator.php on line 2
+[04-Jul-2019 02:43:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home/daffodil-26/test-project/src/Services/GreetGenerator.php on line 2
+[04-Jul-2019 02:43:46 Asia/Calcutta] PHP Parse error:  syntax error, unexpected end of file, expecting '{' in /home/daffodil-26/test-project/src/Services/GreetGenerator.php on line 2
+[04-Jul-2019 02:43:50 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:50 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:53 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:53 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:56 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:43:56 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\InvalidArgumentException: Expected to find class "App\Services\GreetGenerator" in file "/home/daffodil-26/test-project/src/Services/GreetGenerator.php" while importing services from resource "../src/*", but it was not found! Check the namespace prefix used with the resource. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php:163
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/FileLoader.php(57): Symfony\Component\DependencyInjection\Loader\FileLoader->findClasses('App\\', '../src/*', Array)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(568): Symfony\Component\DependencyInjection\Loader\FileLoader->registerClasses(Object(Symfony\Component\DependencyInjection\Definition), 'App\\', '../src/*', '../src/{Depende...')
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Loader/YamlFileLoader.php(229): Symfony\Co in /home/daffodil-26/test-project/vendor/symfony/config/Loader/FileLoader.php on line 166
+[04-Jul-2019 02:44:00 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:00 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:06 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:06 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:10 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:10 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:14 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:14 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:17 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:44:17 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:18 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:18 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:28 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:28 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:31 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:31 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:34 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:34 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:52 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:45:52 Asia/Calcutta] PHP Fatal error:  Uncaught Symfony\Component\DependencyInjection\Exception\RuntimeException: Cannot autowire service "App\Command\GreetUser": argument "$greetGenerator" of method "__construct()" has type "App\Command\GreetGenerator" but this class was not found. in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php:54
+Stack trace:
+#0 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(82): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorExceptionPass->processValue(Object(Symfony\Component\DependencyInjection\Definition), true)
+#1 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php(32): Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass->processValue(Array, true)
+#2 /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/AbstractRecursivePass.php(46): Symfony\Component\DependencyInjection\Compiler\DefinitionErrorEx in /home/daffodil-26/test-project/vendor/symfony/dependency-injection/Compiler/DefinitionErrorExceptionPass.php on line 54
+[04-Jul-2019 02:46:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 20
+[04-Jul-2019 02:46:15 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 20
+[04-Jul-2019 02:46:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 20
+[04-Jul-2019 02:46:18 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '}' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 20
+[04-Jul-2019 02:48:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting ')' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 35
+[04-Jul-2019 02:48:53 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting ')' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 35
+[04-Jul-2019 02:48:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting ')' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 35
+[04-Jul-2019 02:48:56 Asia/Calcutta] PHP Parse error:  syntax error, unexpected '$input' (T_VARIABLE), expecting ')' in /home/daffodil-26/test-project/src/Command/GreetUser.php on line 35
